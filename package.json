@@ -1,0 +1,12 @@
+{
+  "name": "AmericanBank",
+  "version": "1.0.0",
+  "description": "Projeto da Alura",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Wesley Santos",
+  "license": "ISC",
+  "type": "module"
+}
