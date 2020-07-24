@@ -21,7 +21,7 @@ Eu utilizei [Git](https://git-scm.com/) para versionar.
 
 ## Autores
 
-    [Wesley Santos](https://github.com/wesantoos) - Autor 
+  [Wesley Santos](https://github.com/wesantoos) - Autor 
 
 ## Licença
 
