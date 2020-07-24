@@ -2,20 +2,9 @@
 
 Este projeto foi desenvolvido com base no curso de FrontEnd da Alura. Trata-se de um pequeno sistema para bancos que cadastra clientes e funcionários e tem as funções básicas como sacar, transferir ou depositar.
 
-
-## Sumario
-
-  - [Começando](#Começando)
-  - [Construído com](#Ferramentas)
-  - [Contribuição](#Contribuição)
-  - [Versionamento](#Versionamento)
-  - [Autores](#Autores)
-  - [Licença](#Licença)
-
 ## Começando
 
-Estas instruções lhe darão uma cópia do projeto em funcionamento
-sua máquina local para fins de desenvolvimento e testes. Ver implantação para notas sobre como implantar o projeto em um sistema ao vivo.
+Estas instruções lhe darão uma cópia do projeto em funcionamento sua máquina local para fins de desenvolvimento e testes. Ver implantação para notas sobre como implantar o projeto em um sistema ao vivo.
 
 ## Ferramentas utilizadas na construção
 
@@ -24,7 +13,7 @@ sua máquina local para fins de desenvolvimento e testes. Ver implantação para
 
 ## Contribuição
 
-Por favor ler [CONTRIBUTING.md](CONTRIBUTING.md) para obter detalhes sobre nosso código de conduta, e o processo de apresentação de Pull Requests para nós.
+Por favor ler [CONTRIBUTING.md](CONTRIBUTING.md) para obter detalhes sobre nosso código de conduta, e o processo de apresentação de Pull Requests.
 
 ## Versionamento
 
@@ -36,4 +25,4 @@ Eu utilizei [Git](https://git-scm.com/) para versionar.
 
 ## Licença
 
-Este projeto está licenciado sob a [MIT License](LICENSE.md) - veja o arquivo para detalhes.
+Este projeto está licenciado sob a [MIT License](LICENSE) - veja o arquivo para detalhes.
